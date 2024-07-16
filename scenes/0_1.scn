@@ -1,0 +1,1155 @@
+(
+  resources: {},
+  entities: {
+    4294967649: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 25.999998,
+            y: 2.2509298,
+            z: 1.75,
+          ),
+          rotation: (
+            x: 0.0000000754979,
+            y: -1.0,
+            z: 0.0000000754979,
+            w: 0.000000043711395,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967650: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 26.0,
+            y: 2.25,
+            z: 4.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967651: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 0.0,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967652: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 13.5,
+            y: 0.0,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967653: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 27.0,
+            y: 0.0,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967654: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 23.75,
+            y: 2.25,
+            z: 4.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.9999799,
+            y: 1.0,
+            z: 0.9999799,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967655: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 19.25,
+            y: 2.25,
+            z: 4.006813,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967656: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.5,
+            y: 2.25,
+            z: 13.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967657: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.5,
+            y: 2.25,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967658: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 23.75,
+            y: 2.25,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: -0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.99998814,
+            y: 1.0,
+            z: 0.99998814,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967659: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 28.25,
+            y: 2.25,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: -0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967660: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 28.25,
+            y: 2.25,
+            z: 31.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.9999826,
+            y: 1.0,
+            z: 0.9999826,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967661: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.5,
+            y: 2.25,
+            z: 28.75,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967662: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.5,
+            y: 2.25,
+            z: 31.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967663: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.5,
+            y: 2.25,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967664: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 19.25,
+            y: 2.25,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.99999166,
+            y: 1.0,
+            z: 0.99999166,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967665: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 17.0,
+            y: 2.25,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967666: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 10.25,
+            y: 2.25,
+            z: 21.999998,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.99999297,
+            y: 1.0,
+            z: 0.99999297,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967667: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 5.75,
+            y: 2.25,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.999981,
+            y: 1.0,
+            z: 0.999981,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967668: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 8.0,
+            y: 2.25,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967669: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 5.75,
+            y: 2.25,
+            z: 13.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: -0.70698476,
+            z: 0.0,
+            w: 0.7072288,
+          ),
+          scale: (
+            x: 0.9999896,
+            y: 1.0,
+            z: 0.9999896,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967670: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 1.25,
+            y: 2.25,
+            z: 13.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: -0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967671: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 17.0,
+            y: 2.25,
+            z: 10.75,
+          ),
+          rotation: (
+            x: 0.000000043711385,
+            y: -1.0,
+            z: 0.000000043711385,
+            w: 0.000000043711392,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967672: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 8.0,
+            y: 2.25,
+            z: 10.75,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967673: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.5,
+            y: 2.25,
+            z: 24.25,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967674: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 8.0,
+            y: 2.25,
+            z: 4.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967675: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 8.0,
+            y: 2.25,
+            z: 6.25,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967676: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 14.75,
+            y: 2.25,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967677: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 17.0,
+            y: 2.25,
+            z: 13.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967678: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 8.0,
+            y: 2.25,
+            z: 1.75,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967679: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 8.0,
+            y: 2.25,
+            z: 13.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967680: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 17.0,
+            y: 2.25,
+            z: 6.25,
+          ),
+          rotation: (
+            x: 0.000000043711385,
+            y: -1.0,
+            z: 0.000000043711385,
+            w: 0.000000043711392,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967681: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 17.0,
+            y: 2.25,
+            z: 4.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (14),
+      },
+    ),
+    4294967682: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 19.25,
+            y: 2.25,
+            z: 13.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: -0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.9999798,
+            y: 1.0,
+            z: 0.9999798,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967683: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.5,
+            y: 2.25,
+            z: 10.75,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967684: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 23.75,
+            y: 2.25,
+            z: 31.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.9999831,
+            y: 1.0,
+            z: 0.9999831,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967685: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 1.25,
+            y: 2.25,
+            z: 21.999977,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.9999862,
+            y: 1.0,
+            z: 0.9999862,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967686: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 0.0,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967687: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 13.5,
+            y: 0.0,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967688: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 27.0,
+            y: 0.0,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967689: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 4.5,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: -1.0,
+            w: 0.0000000754979,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967690: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 4.5,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: -1.0,
+            w: 0.0000000754979,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967691: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 13.5,
+            y: 4.5,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: -1.0,
+            w: 0.0000000754979,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967692: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 13.5,
+            y: 4.5,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: -1.0,
+            w: 0.0000000754979,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967693: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 27.0,
+            y: 4.5,
+            z: 8.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: -1.0,
+            w: 0.0000000754979,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967694: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 27.0,
+            y: 4.5,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: -1.0,
+            w: 0.0000000754979,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967695: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 17.0,
+            y: 2.9935975,
+            z: 3.62,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (13),
+      },
+    ),
+    4294967696: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.9,
+            y: 2.9935975,
+            z: 22.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: -0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 0.999931,
+            y: 1.0,
+            z: 0.999931,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (13),
+      },
+    ),
+    4294967697: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 17.0,
+            y: 2.9935975,
+            z: 21.62,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (13),
+      },
+    ),
+    4294967698: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 21.9,
+            y: 2.9935975,
+            z: 13.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: -0.7069847,
+            z: 0.0,
+            w: 0.70722884,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (13),
+      },
+    ),
+  },
+)

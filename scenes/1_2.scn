@@ -1,0 +1,51 @@
+(
+  resources: {},
+  entities: {
+    4294967563: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 8.5,
+            y: 0.0,
+            z: 3.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+    4294967564: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 8.5,
+            y: 4.5,
+            z: 3.5,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: -1.0,
+            w: 0.0000000754979,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (18),
+      },
+    ),
+  },
+)

@@ -1,0 +1,74 @@
+(
+  resources: {},
+  entities: {
+    4294967595: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 2.25,
+            z: 23.75,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (17),
+      },
+    ),
+    4294967596: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.00055727223,
+            y: 2.25,
+            z: 30.5,
+          ),
+          rotation: (
+            x: 0.0000000754979,
+            y: -1.0,
+            z: 0.0000000754979,
+            w: 0.000000043711395,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+    4294967597: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0031325466,
+            y: 2.25,
+            z: 26.0,
+          ),
+          rotation: (
+            x: 0.0000000754979,
+            y: -1.0,
+            z: 0.0000000754979,
+            w: 0.000000043711395,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "common_data::static_object::StaticObjectId": (15),
+      },
+    ),
+  },
+)
